@@ -14,17 +14,26 @@ Mentoria que começou com conhecimentos básicos (como ambiente Android Studio e
 ***Lista tópicos abordados e concluídos da mentoria***
 -->
 Apaixonado por tecnologia, espero que minhas habilidades possam contribuir com a comunidade, através do compartilhamento de experiências e conhecimentos aqui expostos.
-<!--
+
 #### Tecnologias e Ferramentas
-essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+Essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
 
-***Icone das tecnologias***
-
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 #### Contato
 
-***Links dos contatos***
--->
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553991635229)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fleichtweis@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/fernando-leichtweis-3b2740130)
+
+------------
 
 ![FLeichtweis GitHub stats](https://github-readme-stats.vercel.app/api?username=fleichtweis)
 
